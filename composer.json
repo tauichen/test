@@ -3,6 +3,12 @@
     "description": "test composer",
     "type": "library",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "tauichen",
+            "email": "383593420@qq.com"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0"
